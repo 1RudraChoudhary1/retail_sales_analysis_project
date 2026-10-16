@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-A beginner-friendly data exploration and cleaning project on a retail sales dataset, built with Python (pandas, NumPy).
+A beginner-friendly data exploration and cleaning project on a retail sales dataset, built with Python (pandas).
 
 ## Project Structure
 
